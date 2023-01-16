@@ -1,5 +1,5 @@
 ## OSMnx 라이브러리를 사용해 가장 가까운 지하철역까지의 거리를 계산하는 코드 
-#### - 단순 직선 거리가 아닌 '도로 네트워크 상의 최단거리
+#### - 단순 직선 거리가 아닌 '도로 네트워크 상의 최단거리'  
 
 
 
@@ -14,5 +14,4 @@
     - result.shp : 코드 산출물, dist2sub 컬럼에 가장 가까운 지하철역까지의 거리가 계산되어 있음 (in meters) 
      
      
-![Gangnam](https://user-images.githubusercontent.com/40761184/212597719-e9afe310-136c-4fa3-9fef-b97536c3a657.png)
-![result](https://user-images.githubusercontent.com/40761184/212605952-bbe2bbd5-2178-402d-a845-2cb057976c55.png)
+![concat](https://user-images.githubusercontent.com/40761184/212606450-0df2a672-7631-489f-ba24-7b3bb58fb8ee.png)
