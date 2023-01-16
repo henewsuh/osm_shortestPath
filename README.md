@@ -14,4 +14,4 @@
     - result.shp : 코드 산출물, dist2sub 컬럼에 가장 가까운 지하철역까지의 거리가 계산되어 있음 (in meters) 
      
      
-![Gangnam](https://github.com/henewsuh/osm_shortestPath/issues/1#issue-1534265474)
+![Gangnam](https://user-images.githubusercontent.com/40761184/212597719-e9afe310-136c-4fa3-9fef-b97536c3a657.png)
